@@ -10,3 +10,4 @@ jobs:
         distribution: 'adopt'
         java-version: '11'
     - run: java --version
+    - run: mvn -v
